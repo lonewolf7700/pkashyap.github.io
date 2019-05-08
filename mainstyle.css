@@ -1,0 +1,117 @@
+html,body{
+	margin:0;
+	padding: 0;
+	height: 100%;
+	font-style: monospace;
+	
+}
+
+.mynav-button{
+	width:100%;
+	text-align:left;
+	background-color:black;
+	color:white;
+	padding:10px 18px;
+	margin-top: 0%;
+    text-decoration:none;
+}
+.mynav-bar{
+	background-color: black;
+	padding: 10px 18px;
+	margin-top: 0px;
+}
+.myimg{
+     background-image: url("BACKGROUND.jpg");
+     height: 800px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-style: monospace;
+  font-style: monospace ;
+font-variant: small-caps; 
+ font-weight: lighter;
+  
+  
+  
+}
+
+.myintro{
+	text-align: center;
+	float: center;
+}
+.quote{
+	float:center;
+	
+    text-align: center;
+    margin-top: 300px;
+    color:#660033;
+    font-style: monospace;
+    font-weight: lighter;
+    font-size: 150%;
+    font-variant: small-caps;
+}
+
+.hello{
+	font-style: italic;
+	font-weight: 15em;
+	color: #f4f4f4;
+	padding-top: 10px;
+}
+.there{
+	font-style: monospace ;
+	font-size: 150%;
+	color: #f4f4f4;
+}
+.intropara{
+	width: 500px;
+	text-align:center;
+	align-items: center;
+	margin:auto;
+	color: #f4f4f4;
+	font-weight: lighter;
+}
+.myself{
+	background-image: url(black.jpg);
+	margin-top: 0px;
+}
+.heading{
+	text-align: center;
+	font-family: sans-serif;
+	font-stretch: medium ;
+}
+.box1{
+    float: left;
+	width: 500px;
+	text-align: center;
+	color: white;
+
+}
+.box2{
+	float: right;
+	width: 500px;
+	text-align: center;
+	color: white;
+}
+.boxcon{
+	margin :auto;
+	width: 1030px;
+}
+.cfor2{
+	background-image: url(plant.jpg);
+	height: 80%;
+	padding-top: 130px;
+	padding-bottom: 0px;
+}
+.heading{
+	color: #f4f4f4;
+	font-style: italic;
+
+}
+.foot{
+	background-color: black;
+	color:white;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: right;
+}

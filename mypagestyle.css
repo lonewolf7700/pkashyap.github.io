@@ -1,0 +1,125 @@
+.back{
+	background-image: url("DSC_0176.jpg"); /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+body , html {
+	height: 100%;
+	text-align : center;
+}
+.intro{
+	text-align: center;
+	font-size: 150%;
+	font-family: sans-serif;
+	color: #f4f4f4;
+	font-weight: 15em; 
+	font-style: italic;
+	;
+
+}
+.intro2{
+	text-align: center;
+	font-size: 250%;
+	font-family: sans-serif;
+	color: #f4f4f4 ; 
+	font-weight: 30em;
+}
+.introduction{
+	padding-top: 250px;
+
+	padding-bottom: 200px;
+
+}
+.container1 , .container2 , .container3 , .container4{
+	width: 1000px ; 
+	align-content:  auto;
+    text-align: center;
+    margin:auto;
+    height: 300px;
+    background-color: #f4f4f4
+
+
+}
+.imgcontainer , .imgcontainer2 , .imgcontainer3 , .imgcontainer4{
+	margin-left: 0px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	padding-right: 0px;
+	float: left;
+	width: 280px ; 
+	
+}
+.main , .main2 , .main3 , .main4 {
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px:
+	margin-left:0px;
+	font-family: cursive;
+	font-size: 15px; 
+    float: right; ; 
+    width: 700px ;
+
+}
+.thingsdone{
+	text-align: center;
+	font-weight: 20em;
+	font-family: monospace;
+    font-size: 31px;
+}
+.firstsem{
+	font-style: italic;
+}
+
+.myintro{
+	height: 50%;
+	align-content: auto;
+	font-style: italic;
+    background: linear-gradient(to top right, #ffff00 0%, #ff6600 100%);    
+    
+   padding-top: 170px;
+}
+.container5 , {
+	width: 500px ; 
+	float: cente;
+    
+       height: 300px;
+    background: linear-gradient(to top right, #3333ff 0%, #ffffff 102%);
+
+}
+.container6{
+	width: 600px ; 
+	float: left;
+    
+       height: 300px;
+    background: linear-gradient(to top right, #3333ff 0%, #ffffff 102%);
+
+
+}
+.imgcontainer5 , .imgcontainer6{
+	
+	padding-bottom: 10px;
+	padding-top: 10px;
+	padding-left: : 20px;
+    float: left;
+	width: 280px ;
+
+}
+.main5, .main6{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	float: left;
+    width: 300px;
+    color: #660066
+}
+.maincontain{
+	align-content:  auto;
+    text-align: center;
+    margin:auto;
+
+}
+
